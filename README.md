@@ -1,4 +1,0 @@
-BootstrapMappzoo
-================
-
-Nuevo Mappzoo
